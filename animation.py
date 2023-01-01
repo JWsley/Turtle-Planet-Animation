@@ -7,7 +7,7 @@ t = turtle.Turtle()
 s = turtle.Screen()
 
 s.bgcolor('black')
-t.pencolor('blue')                                
+t.pencolor('red')                                
 
 x = 0
 y = 0
